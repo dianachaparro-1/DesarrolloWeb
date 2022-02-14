@@ -1,0 +1,19 @@
+.contenedor-info {
+    color: white;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
+h2 {
+    color: #bf337b;
+}
+
+.imgs {
+    width:455px;
+    height:365px;
+}
+
+hr {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
